@@ -27,8 +27,8 @@ class EslamAdel {
 
 ## 🌐 Socials:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eslam4e050cb3@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/eslam-hashem-264666335/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://eslamportfolio.lovable.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eslam-hashem-264666335/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-28a745?logo=vercel&logoColor=white)](https://eslamportfolio.lovable.app)
 
 ## 🧰 Tech Toolbox
 
