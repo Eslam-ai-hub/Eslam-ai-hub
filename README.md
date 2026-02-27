@@ -46,7 +46,9 @@ class EslamAdel {
 </p>
 
 ---
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+</div>
 
 <div align="center">
 
