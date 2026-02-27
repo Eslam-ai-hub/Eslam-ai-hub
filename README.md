@@ -46,9 +46,19 @@ class EslamAdel {
 </p>
 
 ---
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eslam-ai-hub&theme=tokyonight" />
+### 🐍 Activity & Contribution Cycle
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Eslam-ai-hub&theme=react-dark&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Eslam-ai-hub/Eslam-ai-hub/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+<div align="right">
+  <a href="#top">⬆️ Back to Top</a>
 </div>
+
+---
 
 <div align="center">
 
